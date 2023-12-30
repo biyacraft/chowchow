@@ -5,10 +5,9 @@ export default function Hero() {
   return (
     <section className="hero mt-4">
         <div className="py-12">
-        <h1 className="text-4xl font-semibold leading-12">
-            Everything<br/> is better<br/>
-        with a&nbsp;
-        <span className="text-primary">Pizza</span></h1>
+        <h1 className="text-4xl font-semibold leading-12">በፍቅር የተዘጋጁ
+         <br/>እና ለአፍዎ <br/>መዐዛ የምሰጥ &nbsp;
+        <span className="text-primary">ፒዛ </span></h1>
         <p className="my-4 text-gray-500 text-sm">Pizza makes your day. You are skinny
         because your body is missing a littile pizza</p>
         <div className="flex gap-4">
