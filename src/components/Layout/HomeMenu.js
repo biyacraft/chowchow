@@ -19,17 +19,13 @@ export default function HomeMenu() {
        mainHeader={"Menu"} />
        </div>
         <div className="grid grid-cols-3 gap-4">
-        <MenuItem />
-        <MenuItem />
-        <MenuItem />
-        <MenuItem />
-        <MenuItem />
-        <MenuItem />
+        <MenuItem image={"pizza.png"}/>
+        <MenuItem image={"cuisine-removebg-preview.png"}/>
+        <MenuItem image={"beyeaynet-removebg-preview.png"}/>
+        <MenuItem image={"burgerr.png"}/>
+        <MenuItem image={"burgerr.png"}/>
+        <MenuItem image={"burgerr.png"}/>
         </div>
         </section>
     );
 };
-
-
-
-

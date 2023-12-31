@@ -17,11 +17,11 @@ export default function Home() {
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum ex blanditiis 
   ratione quis dicta consequatur atque non quos perspiciatis ad voluptatibus sint
    magnam,
-                  </p> 
+</p> 
 <p>
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum ex blanditiis 
   ratione quis dicta consequatur atque non quos perspiciatis ad voluptatibus sint
-   magnam,
+   magnam, 
 </p>
 </div>
 </section>
