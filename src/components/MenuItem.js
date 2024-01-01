@@ -14,3 +14,6 @@ export default function MenuItem({image}) {
     </div>
   )
 }
+
+
+

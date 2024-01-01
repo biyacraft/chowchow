@@ -8,8 +8,7 @@ export default function Hero() {
         <h1 className="text-4xl font-semibold leading-12">በፍቅር የተዘጋጁ
          <br/>እና ለአፍዎ <br/>መዐዛ የምሰጥ &nbsp;
         <span className="text-primary">ፒዛ </span></h1>
-        <p className="my-4 text-gray-500 text-sm">Pizza makes your day. You are skinny
-        because your body is missing a littile pizza</p>
+        <p className="my-4 text-gray-500 text-sm">Pizza makes your day.</p>
         <div className="flex gap-4">
             <button className="flex gap-2 uppercase text-white text-sm items-center bg-primary p-3 font-semibold rounded-full">
                 አሁን ይዘዙ 
