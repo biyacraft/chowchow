@@ -1,5 +1,5 @@
 export default function MenuItem({image}) {
-  
+ 
   
   return (
     <div className="bg-gray-200 p-4 rounded-lg text-center group
@@ -15,6 +15,8 @@ export default function MenuItem({image}) {
         <button className="bg-primary text-white rounded-full px-10 py-3 m-3 ">ይዘዙ</button>
     </div>
   )
+
+  
 }
 
 
