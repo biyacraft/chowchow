@@ -6,7 +6,6 @@ export default function Header() {
       <header className="flex items-center justify-between">
         <Link className='text-primary font-semibold text-2xl' href="/">ፈጣኝ ፉድ
         </Link>
-    
         <nav className='flex items-center gap-8 text-gray-600 font-semibold'>
         <Link href={"/"}>Home</Link>
         <Link href={"/"}>Menu</Link>
